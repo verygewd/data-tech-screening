@@ -3,7 +3,7 @@
 ## Objective
 The purpose of this exercise is to gain an understanding of how you approach and tackle a rather vague task. The intent is to enable you to showcase both your technical capabilities as well as your ability to explore unfamilar data and generate useful insights based on what you find. 
 
-The file in this repository contains information from a sampling of Airspace orders. The fields in the data set are:
+The `order_records` file in this repository contains information from a sampling of Airspace orders. The fields in the data set are:
 - order_id: unique identifier of an order
 - company_id: unique identifier of the company who placed the order
 - service_line: categorical indicator of the "type" of order
